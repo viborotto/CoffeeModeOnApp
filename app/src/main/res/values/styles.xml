@@ -7,4 +7,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="SwitchCompatTheme" >
+        <item name="colorControlActivated">@color/color_switch</item>
+    </style>
+
+    <style name="SwitchCompatStyle" >
+        <item name="thumbTint">@color/color_switch</item>
+        <item name=" trackTint ">@color/switch_color</item>
+    </style>
 </resources>
